@@ -41,7 +41,6 @@
 	<classpathentry kind="lib" path="E:/安装包/专业工具/structs lib包/ognl-3.0.6.jar"/>
 	<classpathentry kind="lib" path="E:/安装包/专业工具/structs lib包/struts2-core-2.3.16.3.jar"/>
 	<classpathentry kind="lib" path="E:/安装包/专业工具/structs lib包/xwork-core-2.3.16.3.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="lib" path="D:/Program Files/Java相关包/javax.servlet.jar"/>
 	<classpathentry kind="lib" path="D:/Program Files/Java相关包/javax.servlet.jsp.jar"/>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
@@ -53,6 +52,7 @@
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
