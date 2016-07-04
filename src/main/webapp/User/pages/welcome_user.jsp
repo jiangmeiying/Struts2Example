@@ -3,7 +3,7 @@
 <html>
 <head></head>
 <body>
-<h1>Struts 2 Hello World Example</h1>
+<h1>Struts 2 Hello World Example modify</h1>
 
 <h4>Hello <s:property value="username"/></h4>
 
